@@ -1,3 +1,7 @@
-R5T.B0006.X0002 - Generation, initial, parse, simple extensions to ISyntaxGenerator.
+R5T.B0006.X0002 - Generation, initial, parse, simple extensions to ISyntaxGenerator base.
 
-GOALS:
+
+Allowed Dependencies:
+
+* R5T.B0006 - ISyntaxGenerator base.
+* R5T.F0005 - Generation, initial, parse, simple functionality.
